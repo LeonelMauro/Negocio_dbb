@@ -1,6 +1,11 @@
+PROYECTO DE NEGOCIO 🤝
+Cargar los datos de los clientes y productos con sus informaciones.
+
 INTRODUCCION 🧑‍💻
 
 Este proyecto esta enfocado en un negocio donde los propietarios puedan tener acceso a la infomacion de los clientes y los productos, ingresandolos por sistema . Utilizando una base de datos que contener la informacion y tener un seguimiento de la misma.
+
+
 TECNOLOGIAS UTILIDAZAS
 En el proyecto utlizamos:
 
